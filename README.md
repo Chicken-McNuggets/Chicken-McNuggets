@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Every programming langages
 - 📫 How to reach me : Nowhere
 - 😄 Pronouns: HE-HIM-TOYOTA
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Tomat0 ?
 
 <!---
 Chicken-McNuggets/Chicken-McNuggets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
